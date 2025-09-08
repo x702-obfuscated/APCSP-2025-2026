@@ -1,1 +1,1 @@
-# APCSP-2025-2026
+This repo stores the essential knowledge statements for the 2025 APCSP Exam
